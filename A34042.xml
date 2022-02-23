@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Appeal from the Supream Court of Judicature of Holland, Zealand and West-Friesland, to the king of Great Brittain, or, The Case briefly stated between George Carew Esquire, administrator of the goods and chattels of Sir William Courten, Knight deceased, with his will annexed, and the heirs of Sir Jacob Cats, late pensionaris of Holland and West-Friesland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34042</idno>
+            <idno type="STC">Wing C544</idno>
+            <idno type="STC">ESTC R34785</idno>
+            <idno type="EEBO-CITATION">14709213</idno>
+            <idno type="OCLC">ocm 14709213</idno>
+            <idno type="VID">102713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1566:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Appeal from the Supream Court of Judicature of Holland, Zealand and West-Friesland, to the king of Great Brittain, or, The Case briefly stated between George Carew Esquire, administrator of the goods and chattels of Sir William Courten, Knight deceased, with his will annexed, and the heirs of Sir Jacob Cats, late pensionaris of Holland and West-Friesland.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[Middleburgh?] printed :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carew, George, --  Esq.</term>
+               <term>Cats, Jacob, 1577-1660.</term>
+               <term>Courten, William, --  Sir, 1572-1636.</term>
+               <term>Courten, William, d. 1655.</term>
+               <term>Pergens, Jacob.</term>
+               <term>Claims against decedents' estates --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102713:1" rendition="simple:additions"/>
+            <p>AN APPEAL from the Supream Court of Judicature of Holland, Zealand and Weſt-Frieſland, To the KING of GREAT BRITTAIN;</p>
+            <p>Or The Caſe briefly ſtated between <hi>George Carew</hi> Eſquire, Adminiſtrator of the Goods and Chattels of Sir <hi>William Courten</hi> Knight deceaſed, with his Will annexed, And The Heirs of Sir <hi>Jacob Cats,</hi> late Penſionaris of Holland and Weſt-Frieſland.</p>
+            <p>Printed in the Year 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102713:2"/>
+            <pb n="3" facs="tcp:102713:2"/>
+            <head>The Caſe between <hi>George Carew</hi> Eſquire, Adminiſtrator of Sir <hi>VVilliam Courten,</hi> and The Heirs of Sir <hi>Jacob Cats,</hi> late Penſionaris of Holland.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir <hi>Jacob Cats</hi> became bound in the Ci<g ref="char:EOLhyphen"/>ty of London, unto Sir <hi>William Courten</hi> of London Knight, by a writing ob<g ref="char:EOLhyphen"/>ligatory dated the 29 of July 1631. in the penalty of 3000. Pounds, condi<g ref="char:EOLhyphen"/>tioned for the payment of 2080. Pounds on the 12. of February following, according to the Cuſtome of England.</p>
+            <p>The money was not paid but continued at intereſt during Sir <hi>William Courten's</hi> life, who dyed in the Year 1636, indebted to ſeverall Perſons ſeventy thouſand Pounds Sterling and upwards, and leaves <hi>William Cour<g ref="char:EOLhyphen"/>ten</hi> Eſquire, his Son and Heir his ſole Executor.</p>
+            <p>
+               <hi>William Courten</hi> the Executor having contracted many debts of his own, became inſolvent, and abſented him<g ref="char:EOLhyphen"/>ſelf in the Year 1643. from his Creditors, and alſo from the further adminiſtration of his Fathers Eſtate; but before he left the Kingdom, Mr <hi>Jacob Pergens,</hi> a free Denizon of England inhabiting at Amſterdam, addreſſed himſelf to Mr. <hi>Courten</hi> for ſatisfaction of ſome
+<pb n="4" facs="tcp:102713:3"/>money, due to him from Sir <hi>William Courten,</hi> and Mr. <hi>Courten</hi> himſelf as <hi>Pergens</hi> pretended.</p>
+            <p>
+               <hi>William Courten</hi> the Executor by a Letter of Attorney and Aſſignment, dated the 31. of October 1643, grants and transfers the ſaid Bond of 3000. Pounds unto Mr. <hi>Pergens,</hi> with power to ſue Sir <hi>Jacob Cats</hi> for the ſaid debt and dammages to his own uſe.</p>
+            <p>In the Year 1645. <hi>Jacob Pergens</hi> ſummons Sir <hi>Jacob Cats</hi> (then Penſionaris of Holland) into the Provinciall Court at the Hague, and declares againſt him for the ſaid moneys; During the ſaid controverſie Sir <hi>Jacob Cats</hi> applyes himſelf to the Commiſſioners concerning Banckrupts in England, who had a Commiſſion (grounded upon the Statutes in ſuch caſes made and provided) to inquire after Mr. <hi>Courtens</hi> particular Eſtate for ſatisfaction of his own debts, but being adviſed that the Commiſſioners had no legall Authority to inter<g ref="char:EOLhyphen"/>medle with Sir <hi>William Courtens</hi> Eſtate, which was ly<g ref="char:EOLhyphen"/>able in another right for the payment of his own pro<g ref="char:EOLhyphen"/>per debts, Sir <hi>Jacob Cats</hi> declined from any further Treaty with them.</p>
+            <p>Nevertheleſs the Commiſſioners by their writing Authentick, prohibited Sir <hi>Jacob Cats</hi> to pay any money to <hi>Jacob Pergens</hi> upon the ſaid Bond. Then <hi>Pergens</hi> ſoon after obtained a Decree out of the Provinciall Court, to cite and admonish to Commiſſioners in England, if they had any right or pretence to the ſaid Bond or mo<g ref="char:EOLhyphen"/>ney
+<pb n="5" facs="tcp:102713:3"/>due thereupon, they should inſtitute the ſame be<g ref="char:EOLhyphen"/>fore the ſaid Provinciall Court at a day certain, or be condemned in perpetuall ſilence, whereupon the Commiſſioners appeared by their Advocate. Then <hi>Pergens</hi> by an inſinuation prohibited Sir <hi>Jacob Cats</hi> from payment of any money to them or to any other, or to make any agreement with them; Yet notwithſtanding <hi>(de bene eſſe)</hi> on the 18. of July 1653. <hi>Jacob Pergens</hi> pro<g ref="char:EOLhyphen"/>cured an Aſſignment of the ſaid Bond from the ſaid Commiſſioners for 400. Pounds, to the end they might let their Proceſs ceaſe, whereby <hi>Pergens</hi> might proceed againſt Sir <hi>Jacob Cats,</hi> which he did accordingly.</p>
+            <p>But <hi>pendente lite William Courten</hi> the Executor dyed <hi>inteſtate</hi> in Italy, whereby the action abated againſt Sir <hi>Jacob Cats,</hi> according to the known rule in Law: <hi>Quod actio perſonalis moritur cum perſona.</hi>
+            </p>
+            <p>Afterwards upon the Kings moſt happy reſtaura<g ref="char:EOLhyphen"/>tion, Letters of Adminiſtration of the Goods, and Chat<g ref="char:EOLhyphen"/>tels, Rights, Debts, and Credits of Sir <hi>William Courten</hi> with his Will annexed, were granted on the 14. of July 1660. to the ſaid <hi>George Carew;</hi> yet notwithſtanding <hi>Jacob Pergens (who had formerly by another fraudulent pra<g ref="char:EOLhyphen"/>ctiſe, gotten into his hands</hi> 85000 <hi>gilders from the</hi> Eaſt-India Company, <hi>upon pretended aſſignment from the ſaid</hi> William Courten) prevayled with the Provinciall Court on the 4. of November 1661. to give Sentence in the ſaid cauſe againſt Sir <hi>Jacob Cats,</hi> and condemned him to pay
+<pb n="6" facs="tcp:102713:4"/>the ſaid money, due upon the ſaid Bond, unto <hi>Jacob Pergens,</hi> and intereſt thereof at 8. per cent, ſoon after Sir <hi>Jacob Cats</hi> dyed, and his Heirs appealed from the ſaid Sentence to the ſupream Court of Judicature at the Hague.</p>
+            <p>Then <hi>George Carew,</hi> in his quality as Adminiſtrator, intervened in the ſaid cauſe, before the Lords of the ſaid ſupream Court, in the month of May 1662, where having by his Requeſt in writing to their Lordships made known his right and property to the ſaid money, concluded in his Demand that <hi>Pergens</hi> should be con<g ref="char:EOLhyphen"/>demned to acquieſs in the ſaid cauſe, and deliver up the Bond, as having no right to the Money by the ſaid Aſſignments from Mr. <hi>Courten,</hi> or the Commiſſioners, conformable to the Laws of England, where the debt was contracted and the Bond made, and alſo demand<g ref="char:EOLhyphen"/>ed that the Heirs of Sir <hi>Jacob Cats</hi> should be ordered to pay the Money, due upon the ſaid Bond to the ſaid <hi>George Carew,</hi> in his quality as Adminiſtrator of Sir <hi>William Courten,</hi> the ſame being an unadminiſtred effect of Sir <hi>William Courten's</hi> Eſtate.</p>
+            <p>Then the Advocates of both ſides deſired time to conſult concerning the Laws of England in that point, and to inform the Court therein accordingly.</p>
+            <p>The Caſe being drawn up, and agreed by the Ad<g ref="char:EOLhyphen"/>vocats of both parties, ſeverall of the Judges in Eng<g ref="char:EOLhyphen"/>land gave their opinions upon the ſame, under their
+<pb n="7" facs="tcp:102713:4"/>hands before a publique Notary, which was tranſmit<g ref="char:EOLhyphen"/>ted to the ſupream Court of Judicature of Holland: <hi>Wherein was affirmed that by the Law of England, the Bond of Sir</hi> Jacob Cats <hi>could not be granted or aſſigned to Mr.</hi> Pergens, <hi>either by the Executor or Commiſſioner. That after the death of</hi> William Courten <hi>(Executor in Auter droit) the action againſt Sir</hi> Jacob Cats <hi>abated, but when the Ad<g ref="char:EOLhyphen"/>miniſtration was granted to</hi> Carew, <hi>the ſaid action was pro<g ref="char:EOLhyphen"/>perly to be received by him as having the only right in Law to the ſaid debt, the property being not changed by any Act of</hi> Mr. Courten <hi>or the Commiſſioners, but remained as aſſets liable to the Teſtators debts according to the nature and priority in Law, and the intervention of</hi> Carew <hi>in the ſaid cauſe was a continuance of the ſaid action,</hi> Carew <hi>having the right of pro<g ref="char:EOLhyphen"/>ſecution to receive the ſame, allowing the ſaid</hi> Pergens <hi>in equity his coſts of ſuit.</hi>
+            </p>
+            <p>Then Pergens made a dilatory &amp; impertinent excep<g ref="char:EOLhyphen"/>tion, that he was a Burger of Amſterdam, although his dwelling-houſe was in the Hague, and pretended he ought to be firſt impleaded before his Competent Judges there, and not in the Hague before the ſupream Court of Judicature where the ſuit depended: where<g ref="char:EOLhyphen"/>upon the Court rejected Mr. <hi>Carews</hi> ſuit, and decreed that the <hi>Heer van Carniſſe,</hi> and the reſt of the Heirs of Sir <hi>Jacob Cats,</hi> should pay the ſaid Money to <hi>Pergens</hi> with mitigation of the Intereſt, and that <hi>Pergens</hi> should give them Caution to be ſaved harmleſs againſt <hi>Carew,</hi>
+               <pb n="8" facs="tcp:102713:5"/>which was reſpectively done to the apparent wrong of Mr. <hi>Carew,</hi> and ſeverall of his Majeſties good Sub<g ref="char:EOLhyphen"/>jects in England, that claim under Mr. <hi>Carews</hi> admi<g ref="char:EOLhyphen"/>niſtration the effects of Sir <hi>William Courten's</hi> Eſtate un<g ref="char:EOLhyphen"/>adminiſtred.</p>
+            <p>Wherefore they appeal to the King of <hi>Great Brit<g ref="char:EOLhyphen"/>tain,</hi> for protection and means to recover their juſt rights, being of moſt dangerous conſequence againſt the Law of property, to ſuffer Forreign Courts of Judicature to intrench upon the Laws of England, or to wrong the Judicature thereof. And the rather for that the Lords of the ſupream Court at the Hague, were preadmonished by ſeverall learned Advocates there, as follows:</p>
+            <list>
+               <item>1. <hi>That Mr.</hi> Carew <hi>being a Stranger, was to be admitted at his firſt in<g ref="char:EOLhyphen"/>ſtance by the inſtructions of their own Court.</hi>
+               </item>
+               <item>2. <hi>That the Court were poſitively obliged to give judgement according to the Law of England, where the Money was lent and the Bond was ſigned.</hi>
+               </item>
+               <item>3. <hi>That by the Laws of Nations all Courts of Juſtice were to give Sen<g ref="char:EOLhyphen"/>tences, in Caſes of Contracts, according to the Law of the Country where ſuch Contracts were made.</hi>
+               </item>
+               <item>4. <hi>That the ſupream Court was the proper place of Judicature in this Caſe of Intervention, and that if they did not admit Mr.</hi> Carew prima inſtantia, <hi>they would do him an apparent injustice, and wrong both the Judicature of England, and of the United Netherlands; Yet the Penſionaris</hi> Iohn de Witt <hi>being a Kinſman to Mr.</hi> Pergens <hi>his Wife, prevailed with ſome of the Lords of the ſupream Court, to deny Mr.</hi> Carew <hi>that ordinary Juſtice, which ought to be adminiſtred to all Strangers, whereby he hath ſuffered to his dam<g ref="char:EOLhyphen"/>mage</hi> 5000. <hi>Pounds Sterling and upwards.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102713:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
